@@ -14,7 +14,7 @@ This is a web application that helps you prepare for the AWS Cloud Practitioner 
 To get started with the app, follow these steps:
 
 1. Clone this repository.
-2. Open [Link](https://ameya-2003.github.io/AWS-Cloud-Practitioner-Quiz-App/) to view it in the browser.
+2. Open [Link](https://giant-elephant.static.domains/ameya-aws-cloud-practitioner-quiz) to view it in the browser.
 
 ## Contributing 🤝
 
