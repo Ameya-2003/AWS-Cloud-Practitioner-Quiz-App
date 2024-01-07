@@ -4,9 +4,9 @@ This is a web application that helps you prepare for the AWS Cloud Practitioner 
 
 ## Features 🚀
 
-- **Interactive quiz**: The quiz contains 10 questions and there is no time limit. You will get 1 point for each correct answer.
+- **Interactive quiz**: The quiz contains 10 questions and there is a time limit of 45 seconds, for each question. You will get 1 point for each correct answer.
 - **Scoreboard**: Your total score will be displayed at the end of the quiz.
-- **Responsive design**: The app is optimized for desktop and mobile devices.
+- **Responsive design**: The app is optimized for desktop devices.
 - **Free to use**: The app is completely free to use.
 
 ## Getting Started 🏁
