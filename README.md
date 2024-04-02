@@ -9,14 +9,6 @@ This is a web application that helps you prepare for the AWS Cloud Practitioner 
 - **Responsive design**: The app is optimized for desktop devices.
 - **Free to use**: The app is completely free to use.
 
-## Getting Started 🏁
-
-To get started with the app, follow these steps:
-
-1. Star this repository
-2. Clone this repository.
-3. Open [Link](https://giant-elephant.static.domains/ameya-aws-cloud-practitioner-quiz) to view it in the browser.
-
 ## Contributing 🤝
 
 Contributions are welcome! If you find any bugs or have any feature requests, please open an issue on the [GitHub repository](https://github.com/Ameya-2003/AWS-Quiz-App).
