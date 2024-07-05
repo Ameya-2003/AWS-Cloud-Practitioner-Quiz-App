@@ -1,0 +1,8 @@
+version: 1.0
+build:
+  commands:
+    - echo "No build steps needed"
+run:
+  command: |
+    #!/bin/bash
+    python3 -m http.server $PORT
